@@ -1,16 +1,31 @@
-## Hi there 👋
+![Banner](https://static.zerochan.net/Zero.%28CODE.GEASS%29.full.4252674.png)
 
-<!--
-**LordKrymer/LordKrymer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there! I'm Agustin, algo known as Krymer!
 
-Here are some ideas to get you started:
+🎓 I'm currently studying **Software Engineering** and **Programming**.  
+🧑‍💻 Mostly a **backend developer** — but I’m not afraid of jumping into some **basic frontend** when needed.  
+🚀 I love building **personal projects** to stay motivated and explore new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 I speak **Spanish** (native) and have a **good command of English** — so feel free to reach out in either!
+
+🛠️ Tech stack I’m most comfortable with:
+- **PHP** + **Symfony**
+- **Java** + **Spring Boot**
+- Practicing with **Node.js** and **Python**
+- Big fan of **design patterns**, always looking for ways to implement and learn more about them.
+
+🌱 On the side, I lead a small **integration support team** — which helped me a lot in improving my communication, teamwork, and troubleshooting skills.
+
+---
+
+## 🚀 What you'll find here
+
+- Personal experiments and side projects
+- Code where I apply design patterns
+- Backend-focused stuff (with occasional frontend extras)
+
+---
+
+## 📫 Let's connect!
+
+- [LinkedIn]( https://www.linkedin.com/in/agustin-carretto/ ) 
