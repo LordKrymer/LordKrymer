@@ -1,6 +1,6 @@
 ![Banner](https://static.zerochan.net/Zero.%28CODE.GEASS%29.full.4252674.png)
 
-# 👋 Hey there! I'm Agustin, algo known as Krymer!
+# 👋 Hey there! I'm Agustin, also known as Krymer!
 
 🎓 I'm currently studying **Software Engineering** and **Programming**.  
 🧑‍💻 Mostly a **backend developer** — but I’m not afraid of jumping into some **basic frontend** when needed.  
