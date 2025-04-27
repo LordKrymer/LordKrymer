@@ -18,14 +18,6 @@
 
 ---
 
-## 🚀 What you'll find here
-
-- Personal experiments and side projects
-- Code where I apply design patterns
-- Backend-focused stuff (with occasional frontend extras)
-
----
-
 ## 📫 Let's connect!
 
 - [LinkedIn]( https://www.linkedin.com/in/agustin-carretto/ ) 
