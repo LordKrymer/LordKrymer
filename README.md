@@ -1,4 +1,4 @@
-![Banner](https://static.zerochan.net/Zero.%28CODE.GEASS%29.full.4252674.png)
+![Banner](Zero.(CODE.GEASS).full.4252674.png)
 
 # 👋 Hey there! I'm Agustin, also known as Krymer!
 
